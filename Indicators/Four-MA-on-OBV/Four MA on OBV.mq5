@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright   "Copyright © 2026, Danton Junior"
 #property link        "https://www.xtraders.com.br"
-#property version     "1.301"
+#property version     "1.2"
 #property description "Four MA on OBV is a professional OBV smoothing indicator for MetaTrader 5."
 #property description "Plots four customizable Moving Average lines over On Balance Volume."
 #property description "Designed to reveal momentum, signal shifts and trend structure."
